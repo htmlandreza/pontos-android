@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "205132103664",
+    "firebase_url": "https://pontos-iblue.firebaseio.com",
+    "project_id": "pontos-iblue",
+    "storage_bucket": "pontos-iblue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205132103664:android:3462f4d935f03c5e",
+        "android_client_info": {
+          "package_name": "com.andrezamoreira.pontos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205132103664-udla926m4hu5l19jdu851ssic5n0khoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrezamoreira.pontos",
+            "certificate_hash": "6f0de0bc15677c73320b114282396b6d29695257"
+          }
+        },
+        {
+          "client_id": "205132103664-6dsbi7i8av3p9ri1uc6tpmhp4m2nk8fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyp72oxpVOZVLPSwlpS8203WsERmBg8fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205132103664-6dsbi7i8av3p9ri1uc6tpmhp4m2nk8fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
